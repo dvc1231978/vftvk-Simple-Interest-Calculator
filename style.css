@@ -1,4 +1,18 @@
-body {background-color:tan;}
-h1{color:green;}
+/* CSS Document */
 
+/*This sets the background color of the page to black, and the font to Arial in white*/
+body {background-color:black;font-family: Arial;color: white}
 
+/*This sets the font for H1 to Verdana in grey*/
+
+h1{color:grey; font-family: Verdana}
+
+/* .maindiv sets the style of the calculator itself.*/ 
+.maindiv {
+	background-color:white;
+	color:black;
+	width:300px;
+	padding:20px;
+	border-radius:25px;
+	align:center
+}
